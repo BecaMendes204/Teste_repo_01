@@ -1,1 +1,2 @@
-# Teste_repo_01
+Nome: Rebeca Mendes de Oliveira
+Disciplina: Projeto Integrador
